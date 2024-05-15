@@ -1,7 +1,7 @@
 <h1> Óla :wave: me chamo Rafael Narciso da Silva </h1>
-<h5>
+<h3>
   Oi, sou estudante em desenvolvimento de sistemas focado na parte de Back-end, com ênfase em Java, MySQL e tecnologias relacionadas. Estou progredindo na minha jornada de aprendizado e estou aqui para contribuir com projetos de pequeno porte e designers, tornando ideias em realidade, principalmente na área de back-end. Tenho experiência básica em Java, MySQL e outras tecnologias associadas, e estou animado para aplicar esse conhecimento em colaborações e projetos futuros.
-</h5>
+</h3>
 
 ## :books: Educação
 <h3> Ciência da Computação - Unicid - Cursando </h3>
